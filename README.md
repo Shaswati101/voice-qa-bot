@@ -1,12 +1,12 @@
 # 🎙️ Voice Q&A Bot for Indian Language Documents
 
 A RAG-powered voice assistant that lets users ask questions in **Hindi or Tamil** 
-over uploaded PDF documents and receive spoken answers in the same language.
+From loaded PDF documents, and receive spoken answers in the same language.
 
 ## 🛠️ Tech Stack
 - **RAG:** LangChain + FAISS
 - **LLM:** Google Gemini 1.5 Flash
-- **ASR:** OpenAI Whisper
+- **ASR:** Google Web Speech API
 - **TTS:** gTTS
 - **UI:** Streamlit
 
