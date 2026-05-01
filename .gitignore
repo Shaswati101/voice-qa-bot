@@ -1,0 +1,31 @@
+# API keys and secrets
+.env
+
+# Python Virtual Environment
+venv/
+env/
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Binaries / Executables
+*.exe
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+
+# Temporary Audio/PDF files (in case they fail to delete)
+*.wav
+*.mp3
+*.m4a
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+
+# PDF files
