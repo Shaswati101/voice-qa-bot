@@ -21,3 +21,15 @@ over uploaded PDF documents and receive spoken answers in the same language.
    pip install -r requirements.txt
 ```
 3. Create a `.env` file and add your key
+
+4. Run the app
+```bash
+   streamlit run app.py
+```
+
+## 📸 Demo
+(Add a screenshot or GIF of your app here)
+
+## 💡 Inspiration
+Built as part of my application to Shabd Technology — inspired by their mission 
+of making AI accessible in Indian languages.
