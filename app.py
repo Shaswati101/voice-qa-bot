@@ -17,6 +17,7 @@ st.title("🗣️ Voice Q&A Bot for Indian Languages")
 
 # Language selection
 language_map = {
+    "English": "en",
     "Hindi": "hi",
     "Tamil": "ta"
 }
