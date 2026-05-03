@@ -6,7 +6,7 @@ From loaded PDF documents, and receive spoken answers in the same language.
 ## 🛠️ Tech Stack
 - **RAG:** LangChain + FAISS
 - **LLM:** Google Gemini 1.5 Flash
-- **ASR:** Google Web Speech API
+- **ASR:** SpeechRecognition (via Google Speech Recognition API)
 - **TTS:** gTTS
 - **UI:** Streamlit
 
